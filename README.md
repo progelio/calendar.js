@@ -5,7 +5,7 @@
 <html>
     <head>
         <title>My Calendar</title>
-        <script src="Js/calendar.js"></script>
+        <script src="js/calendar.min.js"></script>
     </head>
     <body>
 
